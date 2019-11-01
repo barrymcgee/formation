@@ -1,4 +1,4 @@
-# 🐝 Formation <a href="https://www.patreon.com/minamarkham"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="100"></a>
+# Forked from 🐝 Formation <a href="https://www.patreon.com/minamarkham"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="100"></a>
 
 ![Let's get in formation](assets/formation.gif)
 > Formation is a shell script to set up a macOS laptop for design and development.
@@ -10,7 +10,7 @@ It can be run multiple times on the same machine safely. It installs, upgrades, 
 Download the script:
 
 ```sh
-git clone git@github.com/minamarkham/formation.git && cd formation
+git clone git@github.com/barrymcgee/formation.git && cd formation
 ```
 
 Review the script (please don't run scripts you don't understand):
@@ -46,7 +46,6 @@ The setup process will install:
 <summary>Basic tools:</summary>
 
 * [XCode Command Line Tools](https://developer.apple.com/xcode/downloads/) for developer essentials.
-* [Bash-it](https://github.com/Bash-it/bash-it/), for a more powerful bash.
 * [Git](https://git-scm.com/) for version control
 * [Homebrew](http://brew.sh/) for managing operating system libraries.
 </details>
